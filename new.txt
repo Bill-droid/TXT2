@@ -1,0 +1,7 @@
+ Name:Ilmir G
+ Age:34
+ Movie:Green Book
+ Serial:Mandalorian
+ Animal:Bear
+ Salary:$2000
+

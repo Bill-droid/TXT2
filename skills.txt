@@ -1,0 +1,4 @@
+Skill:Gitbush
+[A[C[C[C[C[C1:Gitbush
+Skill2:Postman
+Skill3:SQL

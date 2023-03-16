@@ -1,0 +1,6 @@
+Movie:Green Book
+Series:Mandalorian
+Food:Summer
+					[D	[D[D	[D[D	[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[A[A[B[B[C[C[C[C[C[C[C[C[CDumplings
+Season:Spring
+Country:England
